@@ -1,1 +1,1 @@
-We are symbols
+Owner and group
