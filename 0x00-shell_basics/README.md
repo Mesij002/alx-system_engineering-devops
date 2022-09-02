@@ -1,1 +1,1 @@
-write a script that lists all files
+write a script that prints the type of the file
