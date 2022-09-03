@@ -1,0 +1,3 @@
+script that changes the directory to home users directory > README.md
+cd ..
+echo script that changes the directory to home users directory
