@@ -1,1 +1,1 @@
-display lines cotaining patterns
+display the number of line
