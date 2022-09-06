@@ -1,1 +1,1 @@
-Write a script that counts the number of directories and sub-directories in the current directory
+20. Without C, you would live in hiago
