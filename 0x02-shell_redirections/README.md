@@ -1,1 +1,1 @@
-display the content of the file
+script that write into the file
