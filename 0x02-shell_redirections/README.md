@@ -1,1 +1,1 @@
-script that displays newest files
+script that takes a list of words
