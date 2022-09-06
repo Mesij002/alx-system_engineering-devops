@@ -1,1 +1,1 @@
-removes all letter
+script that reverse
