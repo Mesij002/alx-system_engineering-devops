@@ -1,1 +1,1 @@
-display the number of line
+display lines
