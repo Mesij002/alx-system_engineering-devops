@@ -1,1 +1,1 @@
-script that duplicates the last line of the file
+script that displays a confused smiley
