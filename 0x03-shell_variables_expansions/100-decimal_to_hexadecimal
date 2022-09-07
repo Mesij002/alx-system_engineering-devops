@@ -1,3 +1,2 @@
 #!/bin/bash
-printf"%\n" $DECIMAL >> 100-decimal_to_hexadecimal
-echo printf%\n
+printf"%x/n" $DECIMAL
